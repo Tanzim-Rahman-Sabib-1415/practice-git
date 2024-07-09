@@ -1,0 +1,10 @@
+.poster{
+    background-color: antiquewhite;
+    margin: 10px;
+    border-top: 10px solid rgb(255, 173, 173);
+    border-radius: 5px;
+    text-align: center;
+    width: 30%;
+    padding: 10px;
+    display: inline-block;
+}
